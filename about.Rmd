@@ -1,0 +1,26 @@
+## Author
+
+- **Name**:  Nathan Lim
+- **Email**:  njlim2@illinois.edu
+- **GitHub**:  nathanjaelim
+
+## Purpose
+
+This application is designed to be an interactive tool that allows the user to
+see the shot tendencies of each NBA team, given the year and the location (home/
+away). The court is divided into 5 different zones, and each zone is assigned a 
+color based on the volume of shots from that zone. Red denotes a high volume of
+shots from that zone, while blue denotes a low volume of shots. This app could
+be useful to the NBA teams themselves, since knowing the opponents' shot 
+tendencies can help create better defensive strategies.
+
+## Data
+
+The dataset used in this app was obtained from cleaningtheglass.com. Each row in
+the data represents each NBA team, and the variables are the shooting frequency
+percentages from each of the 5 zones, as well as the ranks of the percentages
+relative to the rest of the league.
+
+## References
+
+data: https://cleaningtheglass.com/stats/league/shots#tab-offense_shooting_frequency
